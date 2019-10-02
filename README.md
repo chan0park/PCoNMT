@@ -1,3 +1,3 @@
 # PCoNMT
 
-Code and pre-processed data will be updated in this repository.
+Code and pre-processed data will be soon released in this repository.
