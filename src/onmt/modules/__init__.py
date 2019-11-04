@@ -1,0 +1,2 @@
+from onmt.modules.GlobalAttention import GlobalAttention
+from onmt.modules.GlobalAttentionOriginal import GlobalAttentionOriginal
